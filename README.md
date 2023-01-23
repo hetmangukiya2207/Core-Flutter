@@ -1,16 +1,7 @@
-# lecture3_2
+# Core Flutter
 
-Lecture 3.2
+## Lecture 3_2
 
-## Getting Started
+> Application Output :-
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![img](https://user-images.githubusercontent.com/114165239/214126975-8a1b747d-ac64-4aeb-93de-3ed0099e3dfb.png)

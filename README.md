@@ -1,16 +1,19 @@
-# lecture_5_2
+# Core Flutter
 
-Lecture 5.2
+## Lecture 5_2
 
-## Getting Started
+> Task :-
 
-This project is a starting point for a Flutter application.
+- Create an app as as shown in below image.
 
-A few resources to get you started if this is your first Flutter project:
+> Difficulty :-
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 2 Star
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Description :-
+
+Use Text.rich() or RichText() widget to create shown UI.
+
+> Application Output :-
+
+![Apllication Review](https://user-images.githubusercontent.com/114165239/215252735-f9f946af-5f65-4600-b2ea-89e4fe8d63de.png)

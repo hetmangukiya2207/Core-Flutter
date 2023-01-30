@@ -1,16 +1,20 @@
-# pr_1
+# Core Flutter
 
-Project 1
+## Lecture 5_1
 
-## Getting Started
+> Task :-
 
-This project is a starting point for a Flutter application.
+- Create an app as as shown in below image.
 
-A few resources to get you started if this is your first Flutter project:
+> Difficulty :-
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 2 Star
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Description :-
+
+- Create same default text content which appears first to 1ou without using Scaffold widget.
+- But here displa1 same text content using Scaffold widget.
+
+> Application Output :-
+
+![Application Review](https://user-images.githubusercontent.com/114165239/215554121-9ab1c0fb-dcf8-4b07-8e49-1cd009984cb9.png)

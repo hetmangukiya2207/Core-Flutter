@@ -85,3 +85,105 @@
 > Application Output :-
 
 ![lecture_6_1_3](https://user-images.githubusercontent.com/114165239/215963890-89208648-1004-404e-9a60-36b4641abb1a.png)
+
+> Project :- 3
+
+> File Name :- lecture_6_1_3
+
+> Task :-
+
+- Create an app as as shown in below image.
+
+> Difficulty :-
+
+- 2 Star
+
+> Description :-
+
+
+> Application Output :-
+
+> Project :- 4
+
+> File Name :- lecture_6_1_4
+
+> Task :-
+
+- Create an app as as shown in below image.
+
+> Difficulty :-
+
+- 2 Star
+
+> Description :-
+
+
+> Application Output :-
+
+> Project :- 5
+
+> File Name :- lecture_6_1_5
+
+> Task :-
+
+- Create an app as as shown in below image.
+
+> Difficulty :-
+
+- 2 Star
+
+> Description :-
+
+
+> Application Output :-
+
+> Project :- 6
+
+> File Name :- lecture_6_1_6
+
+> Task :-
+
+- Create an app as as shown in below image.
+
+> Difficulty :-
+
+- 2 Star
+
+> Description :-
+
+
+> Application Output :-
+
+> Project :- 7
+
+> File Name :- lecture_6_1_7
+
+> Task :-
+
+- Create an app as as shown in below image.
+
+> Difficulty :-
+
+- 2 Star
+
+> Description :-
+
+
+> Application Output :-
+
+> Project :- 8 
+
+> File Name :- lecture_6_1_8
+
+> Task :-
+
+- Create an app as as shown in below image.
+
+> Difficulty :-
+
+- 2 Star
+
+> Description :-
+
+
+> Application Output :-

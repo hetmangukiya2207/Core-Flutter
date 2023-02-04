@@ -100,6 +100,15 @@
 
 > Description :-
 
+- Display a Mashal using emoji and a stand made by Container as shown in UI. 
+- Use only below mentioned widgets to achieve same UI: 
+
+          a. Scaffold 
+          b. AppBar 
+          c. Align 
+          d. Center 
+          e. Container 
+          f. Text 
 
 > Application Output :-
 
@@ -119,6 +128,15 @@
 
 > Description :-
 
+- Create a Letter Cover design using some properties of BoxDecoration class as shown in UI. 
+- Use only below mentioned widgets to achieve same UI: 
+
+          a. Scaffold 
+          b. AppBar 
+          c. Align 
+          d. Center 
+          e. Container 
+          f. Text 
 
 > Application Output :-
 
@@ -138,6 +156,16 @@
 
 > Description :-
 
+- Create a 3D Cube shape as shown in Ul. 
+- Use only below mentioned widgets to achieve same UI: 
+
+          a. Scaffold 
+          b. AppBar 
+          c. Align 
+          d. Center 
+          e. Container 
+          f. Text 
+
 > Application Output :-
 
 ![lecture_6_1_6](https://user-images.githubusercontent.com/114165239/216767652-2b3e4550-3613-4d33-b794-069bcd11f938.png)
@@ -155,6 +183,16 @@
 - 2 Star
 
 > Description :-
+
+- Create an illusion like opened doors using appropriate properties of BoxDecoration class as shown in UI. 
+- Use only below mentioned widgets to achieve same UI: 
+
+          a. Scaffold 
+          b. AppBar 
+          c. Align 
+          d. Center 
+          e. Container 
+          f. Text 
 
 > Application Output :-
 
@@ -174,6 +212,15 @@
 
 > Description :-
 
+- Create an emoji shape just using below 
+- mentioned widgets: 
+
+          a. Scaffold 
+          b. AppBar 
+          c. Align 
+          d. Center 
+          e. Container 
+          f. Text 
 
 > Application Output :-
 

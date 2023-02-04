@@ -1,16 +1,19 @@
-# lecture_6_3
+# Core Flutter
 
-Lecture 6.3
+## Lecture 6_3
 
-## Getting Started
+> Project :- 1
 
-This project is a starting point for a Flutter application.
+> File Name :- lecture_6_3
 
-A few resources to get you started if this is your first Flutter project:
+> Task :-
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Create an app as as shown in below image.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Difficulty :-
+
+- 2 Star
+
+> Application Output :-
+
+![lecture6_3](https://user-images.githubusercontent.com/114165239/216783239-87db6f71-18b6-463e-adab-5b7989a68681.png)

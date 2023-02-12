@@ -1,16 +1,19 @@
-# p1_age_calculater
+# Core Flutter
 
-A new Flutter project.
+## Age Calculater
 
-## Getting Started
+> Project :- 1
 
-This project is a starting point for a Flutter application.
+> File Name :- p1_age_calculater
 
-A few resources to get you started if this is your first Flutter project:
+> Task :-
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Create an app as as shown in below image.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Difficulty :-
+
+- 2 Star
+
+> Application Output :- 
+
+![Age Calculater](https://user-images.githubusercontent.com/114165239/218329906-6bfc7151-6a32-4c6e-bffe-e08745d1ac8c.png)

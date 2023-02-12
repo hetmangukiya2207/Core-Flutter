@@ -1,10 +1,10 @@
 # Core Flutter
 
-## Lecture 7_1
+## Lecture 7_2
 
 > Project :- 1
 
-> File Name :- lecture_7_1_1
+> File Name :- lecture_7_2_1
 
 > Task :-
 
@@ -20,7 +20,7 @@
 
 > Project :- 2
 
-> File Name :- lecture_7_1_2
+> File Name :- lecture_7_2_2
 
 > Task :-
 
@@ -37,7 +37,7 @@
 
 > Project :- 3
 
-> File Name :- lecture_7_1_3
+> File Name :- lecture_7_2_3
 
 > Task :-
 

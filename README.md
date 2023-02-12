@@ -1,16 +1,19 @@
-# lecture_7_3
+# Core Flutter
 
-A new Flutter project.
+## Lecture 7_3
 
-## Getting Started
+> Project :- 1
 
-This project is a starting point for a Flutter application.
+> File Name :- lecture_7_3
 
-A few resources to get you started if this is your first Flutter project:
+> Task :-
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Create an app as as shown in below image.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Difficulty :-
+
+- 2 Star
+
+> Application Output :- 
+
+![image_lecture_7_3](https://user-images.githubusercontent.com/114165239/218328992-681ed4bd-5c6a-4737-89f7-3b63ec833c93.png)

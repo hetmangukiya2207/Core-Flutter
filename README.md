@@ -1,16 +1,19 @@
-# pr_2_emi_calculater
+# Core Flutter
 
-A new Flutter project.
+## EMI Calculater
 
-## Getting Started
+> Project :- 1
 
-This project is a starting point for a Flutter application.
+> File Name :- pr_2_emi_calculater
 
-A few resources to get you started if this is your first Flutter project:
+> Task :-
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Create an app as as shown in below image.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Difficulty :-
+
+- 2 Star
+
+> Application Output :- 
+
+![2 EMI Calculater](https://user-images.githubusercontent.com/114165239/221374538-0622171b-6173-4ed4-a910-b1d3498f4d1d.png)

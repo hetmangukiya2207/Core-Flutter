@@ -1,0 +1,93 @@
+import 'package:flutter/material.dart';
+
+import 'image_utils.dart';
+
+List<Map> data = [
+  {
+    'TeamImage': (imagePath + i1),
+    'CaptainImage': (imagePath + i11),
+    'TeamName': "India",
+    'CaptainName': "Rohit Sharma",
+    'Captain': "Captain",
+    'Description': "This is Team India",
+  },
+  {
+    'TeamImage': (imagePath + i2),
+    'CaptainImage': (imagePath + i22),
+    'TeamName': "Pakistan",
+    'CaptainName': "Babar Azam",
+    'Captain': "Captain",
+    'Description': "This is Team Pakistan",
+  },
+  {
+    'TeamImage': (imagePath + i3),
+    'CaptainImage': (imagePath + i33),
+    'TeamName': "South Africa",
+    'CaptainName': "Temba Bavuma",
+    'Captain': "Captain",
+    'Description': "This is Team South Africa",
+  },
+  {
+    'TeamImage': (imagePath + i4),
+    'CaptainImage': (imagePath + i44),
+    'TeamName': "Australia",
+    'CaptainName': "Pat Cummins",
+    'Captain': "Captain",
+    'Description': "This is Team Australia",
+  },
+  {
+    'TeamImage': (imagePath + i5),
+    'CaptainImage': (imagePath + i55),
+    'TeamName': "Bangladesh",
+    'CaptainName': "Shakib Al Hasan",
+    'Captain': "Captain",
+    'Description': "This is Team Bangladesh",
+  },
+  {
+    'TeamImage': (imagePath + i6),
+    'CaptainImage': (imagePath + i66),
+    'TeamName': "England",
+    'CaptainName': "Ben Stokes",
+    'Captain': "Captain",
+    'Description': "This is Team England",
+  },
+  {
+    'TeamImage': (imagePath + i7),
+    'CaptainImage': (imagePath + i77),
+    'TeamName': "New Zeland",
+    'CaptainName': "Kane Williamson",
+    'Description': "This is Team New Zeland",
+  },
+  {
+    'TeamImage': (imagePath + i8),
+    'CaptainImage': (imagePath + i88),
+    'TeamName': "Shri Lanka",
+    'CaptainName': "Dasun Shanaka",
+    'Captain': "Captain",
+    'Description': "This is Team Shri Lanka",
+  },
+  {
+    'TeamImage': (imagePath + i9),
+    'CaptainImage': (imagePath + i99),
+    'TeamName': "West Indies",
+    'CaptainName': "Shai Hope",
+    'Captain': "Captain",
+    'Description': "This is Team West Indies",
+  },
+  {
+    'TeamImage': (imagePath + i10),
+    'CaptainImage': (imagePath + i101),
+    'TeamName': "Zimbabwe",
+    'CaptainName': "Sean Williams",
+    'Captain': "Captain",
+    'Description': "This is Team Zimbawe",
+  },
+  {
+    'TeamImage': (imagePath + i111),
+    'CaptainImage': (imagePath + i1111),
+    'TeamName': "Afghanistan",
+    'CaptainName': "Rashid Khan",
+    'Captain': "Captain",
+    'Description': "This is Team Afghanistan",
+  },
+];

@@ -1,16 +1,19 @@
-# pr_3_dice_app
+# Core Flutter
 
-A new Flutter project.
+## Dice App
 
-## Getting Started
+> Project :- 1
 
-This project is a starting point for a Flutter application.
+> File Name :- pr_3_dice_app
 
-A few resources to get you started if this is your first Flutter project:
+> Task :-
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Create an app as as shown in below image.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Difficulty :-
+
+- 2 Star
+
+> Application Output :- 
+
+![3_Dice_App](https://user-images.githubusercontent.com/114165239/221429484-6e615d16-1b31-4b66-a4fe-7a472d7deaea.png)

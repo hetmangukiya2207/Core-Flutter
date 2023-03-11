@@ -1,16 +1,23 @@
-# pproject_4
+# Core Flutter
 
-A new Flutter project.
+## Project 4
 
-## Getting Started
+> Project :- 1
 
-This project is a starting point for a Flutter application.
+> File Name :- pr_1_kbc_game
 
-A few resources to get you started if this is your first Flutter project:
+> Task :-
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Create an app as as shown in below image.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Difficulty :-
+
+- 2 Star
+
+> Application Output :- 
+
+![1](https://user-images.githubusercontent.com/114165239/224484430-c91b64b8-2155-4a81-b737-188ef0e81972.png)
+
+![2](https://user-images.githubusercontent.com/114165239/224484421-1aef1003-1be9-4ad1-9745-0b1b28edd453.png)
+
+![3](https://user-images.githubusercontent.com/114165239/224484418-8d06133e-6f21-4522-8580-d213764057c2.png)

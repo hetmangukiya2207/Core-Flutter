@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:viva_1/views/screens/DescPage.dart';
+import 'package:viva_1/views/utils/color_utils.dart';
 
 import '../utils/list_utils.dart';
 
@@ -26,6 +27,7 @@ class _SneakersPageState extends State<SneakersPage> {
             child: Icon(CupertinoIcons.left_chevron)),
         title: Text("Sneakers Nike Shoes"),
         centerTitle: true,
+        backgroundColor: btn,
       ),
       body: Center(
         child: SingleChildScrollView(
@@ -48,7 +50,7 @@ class _SneakersPageState extends State<SneakersPage> {
                       ListTile(
                         leading: SizedBox(
                           width: h * 0.1,
-                          child: Image.network(e['Image']),
+                          child: Image.asset(e['Image']),
                         ),
                         trailing: SizedBox(
                           height: h * 0.2,
@@ -66,6 +68,7 @@ class _SneakersPageState extends State<SneakersPage> {
           ),
         ),
       ),
+      backgroundColor: bg,
     );
   }
 }

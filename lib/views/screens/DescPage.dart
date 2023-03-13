@@ -3,6 +3,8 @@ import 'dart:math';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+import '../utils/color_utils.dart';
+
 class DescPage extends StatefulWidget {
   final Map Sneakers;
 
@@ -25,22 +27,22 @@ class _DescPageState extends State<DescPage> {
           "Description",
           style: TextStyle(
             color: Colors.black,
-            fontSize: 25,
+            fontSize: 20,
             fontWeight: FontWeight.bold,
           ),
         ),
-        backgroundColor: Colors.white,
+        backgroundColor: btn,
       ),
       body: Center(
         child: Column(
+          mainAxisAlignment: MainAxisAlignment.end,
           children: [
             Padding(
-              padding: EdgeInsets.all(20),
+              padding: EdgeInsets.all(5),
               child: Container(
                 width: w,
                 decoration: BoxDecoration(
-                    borderRadius: BorderRadius.circular(20),
-                    border: Border.all(color: Colors.orange)),
+                    borderRadius: BorderRadius.circular(20), color: btn),
                 child: SizedBox(
                   height: h * 0.3,
                   width: w * 0.3,
@@ -48,90 +50,269 @@ class _DescPageState extends State<DescPage> {
                 ),
               ),
             ),
+            const Spacer(),
             Container(
-              height: h * 0.2,
-              width: w,
+              height: h * 0.55,
+              width: double.infinity,
               decoration: BoxDecoration(
-                borderRadius: BorderRadius.circular(20),
-                color: Colors.orange,
-                // border: Border.all(color: Colors.orange)
+                color: btn,
+                borderRadius: BorderRadius.circular(16),
               ),
               child: Column(
-                mainAxisAlignment: MainAxisAlignment.center,
+                mainAxisAlignment: MainAxisAlignment.start,
                 children: [
-                  Text(
-                    widget.Sneakers['ItemName'],
-                    style: TextStyle(
-                        color: Colors.black,
-                        fontSize: 30,
-                        fontWeight: FontWeight.normal),
-                  ),
                   Text(
                     widget.Sneakers['Name'],
                     style: const TextStyle(
-                        color: Colors.black,
-                        fontSize: 36,
-                        fontWeight: FontWeight.bold),
-                  ),
-                ],
-              ),
-            ),
-            Spacer(),
-            Container(
-              height: h * 0.2,
-              width: w,
-              decoration: BoxDecoration(
-                borderRadius: BorderRadius.circular(20),
-                color: Colors.orange,
-                // border: Border.all(color: Colors.orange)
-              ),
-              child: Column(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  Text(
-                    widget.Sneakers['Selling'],
-                    style: TextStyle(
-                        color: Colors.black,
-                        fontSize: 30,
-                        fontWeight: FontWeight.normal),
+                      color: Colors.black,
+                      fontSize: 24,
+                      fontWeight: FontWeight.bold,
+                    ),
                   ),
                   Text(
                     widget.Sneakers['Price'],
                     style: const TextStyle(
-                        color: Colors.black,
-                        fontSize: 36,
-                        fontWeight: FontWeight.bold),
-                  ),
-                ],
-              ),
-            ),
-            Spacer(),
-            Padding(
-              padding: EdgeInsets.all(20),
-              child: Container(
-                height: h * 0.1,
-                width: w,
-                decoration: BoxDecoration(
-                    borderRadius: BorderRadius.circular(20),
-                    border: Border.all(color: Colors.orange)),
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: const [
-                    Text(
-                      "Add To Cart",
-                      style: TextStyle(
-                          fontWeight: FontWeight.bold,
-                          color: Colors.black,
-                          fontSize: 26),
+                      color: Colors.black,
+                      fontSize: 20,
+                      fontWeight: FontWeight.bold,
                     ),
-                    Icon(CupertinoIcons.cart, size: 26),
-                  ],
-                ),
+                  ),
+                  Spacer(),
+                  Row(
+                    children: const [
+                      Text(
+                        "Colors",
+                        style: TextStyle(
+                            fontWeight: FontWeight.normal,
+                            color: Colors.black,
+                            fontSize: 22),
+                      ),
+                      Spacer(),
+                      SizedBox(
+                        height: 25,
+                        child: CircleAvatar(
+                          backgroundColor: Colors.black,
+                        ),
+                      ),
+                      SizedBox(
+                        height: 25,
+                        child: CircleAvatar(
+                          backgroundColor: Colors.orange,
+                        ),
+                      ),
+                      SizedBox(
+                        height: 25,
+                        child: CircleAvatar(
+                          backgroundColor: Colors.red,
+                        ),
+                      ),
+                      SizedBox(
+                        height: 25,
+                        child: CircleAvatar(
+                          backgroundColor: Colors.brown,
+                        ),
+                      ),
+                    ],
+                  ),
+                  Spacer(),
+                  Column(
+                    children: [
+                      const Text(
+                        "Select Size",
+                        style: TextStyle(
+                            fontWeight: FontWeight.normal,
+                            color: Colors.black,
+                            fontSize: 22),
+                      ),
+                      SizedBox(
+                        height: h * 0.02,
+                      ),
+                      SingleChildScrollView(
+                        scrollDirection: Axis.horizontal,
+                        child: Row(
+                          children: const [
+                            SizedBox(
+                              height: 25,
+                              child: CircleAvatar(
+                                backgroundColor: Color(0xff609966),
+                                child: Text(
+                                  "1",
+                                  style: TextStyle(
+                                      fontWeight: FontWeight.bold,
+                                      color: Colors.black),
+                                ),
+                              ),
+                            ),
+                            SizedBox(
+                              height: 25,
+                              child: CircleAvatar(
+                                backgroundColor: Color(0xff609966),
+                                child: Text(
+                                  "2",
+                                  style: TextStyle(
+                                      fontWeight: FontWeight.bold,
+                                      color: Colors.black),
+                                ),
+                              ),
+                            ),
+                            SizedBox(
+                              height: 25,
+                              child: CircleAvatar(
+                                backgroundColor: Color(0xff609966),
+                                child: Text(
+                                  "3",
+                                  style: TextStyle(
+                                      fontWeight: FontWeight.bold,
+                                      color: Colors.black),
+                                ),
+                              ),
+                            ),
+                            SizedBox(
+                              height: 25,
+                              child: CircleAvatar(
+                                backgroundColor: Color(0xff609966),
+                                child: Text(
+                                  "4",
+                                  style: TextStyle(
+                                      fontWeight: FontWeight.bold,
+                                      color: Colors.black),
+                                ),
+                              ),
+                            ),
+                            SizedBox(
+                              height: 25,
+                              child: CircleAvatar(
+                                backgroundColor: Color(0xff609966),
+                                child: Text(
+                                  "5",
+                                  style: TextStyle(
+                                      fontWeight: FontWeight.bold,
+                                      color: Colors.black),
+                                ),
+                              ),
+                            ),
+                            SizedBox(
+                              height: 25,
+                              child: CircleAvatar(
+                                backgroundColor: Color(0xff609966),
+                                child: Text(
+                                  "6",
+                                  style: TextStyle(
+                                      fontWeight: FontWeight.bold,
+                                      color: Colors.black),
+                                ),
+                              ),
+                            ),
+                            SizedBox(
+                              height: 25,
+                              child: CircleAvatar(
+                                backgroundColor: Color(0xff609966),
+                                child: Text(
+                                  "7",
+                                  style: TextStyle(
+                                      fontWeight: FontWeight.bold,
+                                      color: Colors.black),
+                                ),
+                              ),
+                            ),
+                            SizedBox(
+                              height: 25,
+                              child: CircleAvatar(
+                                backgroundColor: Color(0xff609966),
+                                child: Text(
+                                  "8",
+                                  style: TextStyle(
+                                      fontWeight: FontWeight.bold,
+                                      color: Colors.black),
+                                ),
+                              ),
+                            ),
+                            SizedBox(
+                              height: 25,
+                              child: CircleAvatar(
+                                backgroundColor: Color(0xff609966),
+                                child: Text(
+                                  "9",
+                                  style: TextStyle(
+                                      fontWeight: FontWeight.bold,
+                                      color: Colors.black),
+                                ),
+                              ),
+                            ),
+                            SizedBox(
+                              height: 25,
+                              child: CircleAvatar(
+                                backgroundColor: Color(0xff609966),
+                                child: Text(
+                                  "10",
+                                  style: TextStyle(
+                                      fontWeight: FontWeight.bold,
+                                      color: Colors.black),
+                                ),
+                              ),
+                            ),
+                            SizedBox(
+                              height: 25,
+                              child: CircleAvatar(
+                                backgroundColor: Color(0xff609966),
+                                child: Text(
+                                  "11",
+                                  style: TextStyle(
+                                      fontWeight: FontWeight.bold,
+                                      color: Colors.black),
+                                ),
+                              ),
+                            ),
+                            SizedBox(
+                              height: 25,
+                              child: CircleAvatar(
+                                backgroundColor: Color(0xff609966),
+                                child: Text(
+                                  "12",
+                                  style: TextStyle(
+                                      fontWeight: FontWeight.bold,
+                                      color: Colors.black),
+                                ),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ],
+                  ),
+                  Spacer(),
+                  GestureDetector(
+                    onTap: () {
+                      setState(() {
+                        Navigator.of(context).pushNamed('CartPage');
+                      });
+                    },
+                    child: Container(
+                      height: h * 0.1,
+                      width: w * 0.8,
+                      decoration: BoxDecoration(
+                        borderRadius: BorderRadius.circular(20),
+                        color: Color(0xff609966),
+                      ),
+                      child: Center(
+                        child: const Text(
+                          "Add To Buy",
+                          style: TextStyle(
+                              fontWeight: FontWeight.bold,
+                              color: Colors.black,
+                              fontSize: 22),
+                        ),
+                      ),
+                    ),
+                  ),
+                  Spacer(),
+                ],
               ),
             )
           ],
         ),
       ),
+      backgroundColor: bg,
     );
   }
 }

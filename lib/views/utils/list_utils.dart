@@ -62,14 +62,14 @@ List<Map> Sneakers = [
   {
     'ItemName': "Sneakers",
     'Selling': "Best Selling",
-    'Price': "₹10000.00",
+    'Price': "₹9000.00",
     'Name': "NIKE Dunk Low PF",
     'Image': (ImagePath + i9),
   },
   {
     'ItemName': "Sneakers",
     'Selling': "Best Selling",
-    'Price': "₹12000.00",
+    'Price': "₹9000.00",
     'Name': "NIKE Dunk High PF",
     'Image': (ImagePath + i10),
   },

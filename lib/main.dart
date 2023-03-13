@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:viva_1/views/screens/DescPage.dart';
 import 'package:viva_1/views/screens/HomePage.dart';
 import 'package:viva_1/views/screens/SneakersPage.dart';
+import 'package:viva_1/views/screens/CartPage.dart';
 
 void main() => runApp(
       const MyApp(),
@@ -22,6 +23,9 @@ class MyApp extends StatelessWidget {
         '/': (context) => const HomePage(),
         'SneakersPage': (context) => const SneakersPage(),
         'DescPage': (context) => const DescPage(
+              Sneakers: {},
+            ),
+        'CartPage': (context) => const CartPage(
               Sneakers: {},
             ),
       },

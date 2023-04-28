@@ -1,16 +1,22 @@
-# viva_2
+# Core Flutter
 
-A new Flutter project.
+## Viva_2
 
-## Getting Started
+> Project :- 1
 
-This project is a starting point for a Flutter application.
+> File Name :- viva_2
 
-A few resources to get you started if this is your first Flutter project:
+> Task :-
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Create an app as as shown in below image.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Difficulty :-
+
+- 2 Star
+
+> Application Output :- 
+
+![1](https://user-images.githubusercontent.com/114165239/235227993-5a9cd05d-cb0a-451b-bb9e-f676fb32623e.PNG)
+
+![2](https://user-images.githubusercontent.com/114165239/235228006-6935ac39-4fdc-4230-8de9-e3226c7b8760.PNG)
+

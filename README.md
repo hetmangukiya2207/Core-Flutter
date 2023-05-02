@@ -1,16 +1,19 @@
-# viva_2_2
+# Core Flutter
 
-A new Flutter project.
+## DIGI CLOCK
 
-## Getting Started
+> Project :- 1
 
-This project is a starting point for a Flutter application.
+> File Name :- viva_2_2
 
-A few resources to get you started if this is your first Flutter project:
+> Task :-
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Create an app as as shown in below image.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Difficulty :-
+
+- 2 Star
+
+> Application Output :- 
+
+![1](https://user-images.githubusercontent.com/114165239/235686421-5a81c385-bb4c-4d4b-9ca9-fcca68c067b7.PNG)
